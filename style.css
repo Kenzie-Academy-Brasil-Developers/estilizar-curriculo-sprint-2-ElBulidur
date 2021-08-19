@@ -1,3 +1,7 @@
+*{
+	font-family: 'Rokkitt', 'Helvetica', 'Arial', sans-serif;
+}
+
 h1, h2, h3, h4, h5, h6{
 	border: 0;
 	font: inherit;
@@ -9,7 +13,7 @@ h1, h2, h3, h4, h5, h6{
 
 html, body {
 	font-size: 16px;
-	font-family: 'Lato', 'Helvetica', 'Arial', 'Lucida Sans Unicode';
+	font-family: 'Lato', 'Helvetica', 'Arial', sans-serif;
 	background-color: #f3f3f3;
 }
 
@@ -21,6 +25,7 @@ p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
+	color: #181818;
 }
 
 #cv {
@@ -69,6 +74,7 @@ p {
 
 #contactDetails {
 	float: right;
+	color: #181818;
 }
 
 #contactDetails ul {
